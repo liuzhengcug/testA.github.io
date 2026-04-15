@@ -32,14 +32,19 @@ My research interest includes neural machine translation and computer vision. I 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/paper-34.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 [Routing on Demand: DSNet for Efficient Progressive Point Cloud Denoising](https://liuzhengcug.github.io/testA.github.io/papers/26 CVPR - DSNet.pdf)
+  
 Xiaoqian Cheng, Dong Xiao, Husen Li, **Zheng Liu**, Renjie Chen
 </div>
 </div>
 
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Computational Visual Media 2026</div><img src='images/paper-33.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
 [Bridging geometry and semantics for 3D point cloud instance segmentation](https://liuzhengcug.github.io/testA.github.io/papers/26 CVM - Bridging geometry and semantics for 3D point cloud instance segmentation.pdf)
+  
 Huixiao Tian, Zhipeng Jiang, Shimin Song, Saishang Zhong, **Zheng Liu★**, Ying He
 </div>
 </div>
